@@ -20,7 +20,9 @@ const BLOG = {
   // 3.14.1版本后，欢迎语在此配置，英文逗号隔开 ,  即可支持多个欢迎语打字效果。
   GREETING_WORDS:
     process.env.NEXT_PUBLIC_GREETING_WORDS ||
-    '欢迎来到镜雨阁！',
+    '浩浩乎如冯虚御风，而不知其所止；飘飘乎如遗世独立，羽化而登仙。,西望夏口，东望武昌，山川相缪，郁乎苍苍。,驾一叶之扁舟，举匏樽以相属。寄蜉蝣于天地，渺沧海之一粟。,\
+    哀吾生之须臾，羡长江之无穷。挟飞仙以遨游，抱明月而长终。知不可乎骤得，托遗响于悲风。,惟江上之清风，与山间之明月，耳得之而为声，目遇之而成色。,悟已往之不谏，知来者之可追。\
+    实迷途其未远，觉今是而昨非。,舟遥遥以轻飏，风飘飘而吹衣。问征夫以前路，恨晨光之熹微。,怀良辰以孤往，或植杖而耘耔。登东皋以舒啸，临清流而赋诗。',
 
   CUSTOM_MENU: process.env.NEXT_PUBLIC_CUSTOM_MENU || true, // 支持Menu 类型，从3.12.0版本起，各主题将逐步支持灵活的二级菜单配置，替代了原来的Page类型，此配置是试验功能、默认关闭。
 
@@ -184,7 +186,7 @@ const BLOG = {
     'https://cdn.jsdelivr.net/npm/prismjs@1.29.0/themes/prism-okaidia.min.css', // 深色模式主题
 
   CODE_MAC_BAR: process.env.NEXT_PUBLIC_CODE_MAC_BAR || true, // 代码左上角显示mac的红黄绿图标
-  CODE_LINE_NUMBERS: process.env.NEXT_PUBLIC_CODE_LINE_NUMBERS || false, // 是否显示行号
+  CODE_LINE_NUMBERS: process.env.NEXT_PUBLIC_CODE_LINE_NUMBERS || true, // 是否显示行号
   CODE_COLLAPSE: process.env.NEXT_PUBLIC_CODE_COLLAPSE || true, // 是否支持折叠代码框
   CODE_COLLAPSE_EXPAND_DEFAULT:
     process.env.NEXT_PUBLIC_CODE_COLLAPSE_EXPAND_DEFAULT || true, // 折叠代码默认是展开状态
