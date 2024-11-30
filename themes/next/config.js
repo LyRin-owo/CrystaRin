@@ -1,7 +1,7 @@
 const CONFIG = {
 
   NEXT_HOME_BANNER: true, // 首页是否显示大图及标语 [true,false]
-  NEXT_HOME_BANNER_STRINGS: ['Hi，我是一个程序员', 'Hi，我是一个打工人', 'Hi，我是一个干饭人', '欢迎来到我的博客🎉'], // 首页大图标语文字
+  NEXT_HOME_BANNER_STRINGS: ['🎮 糊糊菜菜音游人', '🏫 一般路过高三生', '✨ 科技狂热爱好者', '😭 抑郁失眠大社恐', '🤖️ 人工智能大模型'], // 首页大图标语文字
 
   NEXT_NAV_TYPE: 'normal', // ['fixed','autoCollapse','normal'] 分别是固定屏幕顶部并始终显示、固定屏幕顶部且滚动时隐藏，不固定屏幕顶部
 
