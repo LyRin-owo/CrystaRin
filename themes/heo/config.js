@@ -62,176 +62,176 @@ const CONFIG = {
   HEO_INFO_CARD_TEXT3: '哔哩哔哩',
 
   // 用户技能图标
-  HEO_GROUP_ICONS: [
-    {
-      "title_1": "-",
-      "img_1": "/images/heo/-.jpg",
-      "color_1": "#ffffff",
-      "title_2": "¿¿¿¿¿",
-      "img_2": "/images/heo/¿¿¿¿¿.jpg",
-      "color_2": "#ffffff"
-    },
-    {
-      "title_1": "⑨0%碘化钙",
-      "img_1": "/images/heo/⑨0%碘化钙.jpg",
-      "color_1": "#ffffff",
-      "title_2": "海底捞凤梨汁",
-      "img_2": "/images/heo/海底捞凤梨汁.jpg",
-      "color_2": "#ffffff"
-    },
-    {
-      "title_1": "霁月",
-      "img_1": "/images/heo/霁月.jpg",
-      "color_1": "#ffffff",
-      "title_2": "江暮迟",
-      "img_2": "/images/heo/江暮迟.jpg",
-      "color_2": "#ffffff"
-    },
-    {
-      "title_1": "禁地",
-      "img_1": "/images/heo/禁地.jpg",
-      "color_1": "#ffffff",
-      "title_2": "林",
-      "img_2": "/images/heo/林.jpg",
-      "color_2": "#ffffff"
-    },
-    {
-      "title_1": "牧野",
-      "img_1": "/images/heo/牧野.jpg",
-      "color_1": "#ffffff",
-      "title_2": "晴霜",
-      "img_2": "/images/heo/晴霜.jpg",
-      "color_2": "#ffffff"
-    },
-    {
-      "title_1": "三硝基甲苯",
-      "img_1": "/images/heo/三硝基甲苯.jpg",
-      "color_1": "#ffffff",
-      "title_2": "扬州炒饭",
-      "img_2": "/images/heo/扬州炒饭.jpg",
-      "color_2": "#ffffff"
-    },
-    {
-      "title_1": "月亮有点困",
-      "img_1": "/images/heo/月亮有点困.jpg",
-      "color_1": "#ffffff",
-      "title_2": "雲",
-      "img_2": "/images/heo/雲.jpg",
-      "color_2": "#ffffff"
-    },
-    {
-      "title_1": "稚璇Yumi",
-      "img_1": "/images/heo/稚璇Yumi.jpg",
-      "color_1": "#ffffff",
-      "title_2": "chihuoQwQ",
-      "img_2": "/images/heo/chihuoQwQ.jpg",
-      "color_2": "#ffffff"
-    },
-    {
-      "title_1": "ClassiSBand",
-      "img_1": "/images/heo/ClassiSBand.jpg",
-      "color_1": "#ffffff",
-      "title_2": "Cokee",
-      "img_2": "/images/heo/Cokee.jpg",
-      "color_2": "#ffffff"
-    },
-    {
-      "title_1": "cyy",
-      "img_1": "/images/heo/cyy.png",
-      "color_1": "#ffffff",
-      "title_2": "DryIce-cc",
-      "img_2": "/images/heo/DryIce-cc.jpg",
-      "color_2": "#ffffff"
-    },
-    {
-      "title_1": "Epsilon",
-      "img_1": "/images/heo/Epsilon.jpg",
-      "color_1": "#ffffff",
-      "title_2": "fsw",
-      "img_2": "/images/heo/fsw.jpg",
-      "color_2": "#ffffff"
-    },
-    {
-      "title_1": "gbcy",
-      "img_1": "/images/heo/gbcy.jpg",
-      "color_1": "#ffffff",
-      "title_2": "Heiyc",
-      "img_2": "/images/heo/Heiyc.jpg",
-      "color_2": "#ffffff"
-    },
-    {
-      "title_1": "Hiper",
-      "img_1": "/images/heo/Hiper.jpg",
-      "color_1": "#ffffff",
-      "title_2": "kriastans",
-      "img_2": "/images/heo/kriastans.jpg",
-      "color_2": "#ffffff"
-    },
-    {
-      "title_1": "LiuYan-xwx",
-      "img_1": "/images/heo/LiuYan-xwx.jpg",
-      "color_1": "#ffffff",
-      "title_2": "LyRin-owo",
-      "img_2": "/images/heo/LyRin-owo.jpg",
-      "color_2": "#ffffff"
-    },
-    {
-      "title_1": "MikaRELIA",
-      "img_1": "/images/heo/MikaRELIA.jpg",
-      "color_1": "#ffffff",
-      "title_2": "MiniSentry",
-      "img_2": "/images/heo/MiniSentry.jpg",
-      "color_2": "#ffffff"
-    },
-    {
-      "title_1": "MoonBigD",
-      "img_1": "/images/heo/MoonBigD.jpg",
-      "color_1": "#ffffff",
-      "title_2": "Nanami",
-      "img_2": "/images/heo/Nanami.jpg",
-      "color_2": "#ffffff"
-    },
-    {
-      "title_1": "Nireno",
-      "img_1": "/images/heo/Nireno.jpg",
-      "color_1": "#ffffff",
-      "title_2": "Patricia",
-      "img_2": "/images/heo/Patricia.jpg",
-      "color_2": "#ffffff"
-    },
-    {
-      "title_1": "sanwu",
-      "img_1": "/images/heo/sanwu.jpg",
-      "color_1": "#ffffff",
-      "title_2": "SEALYikang",
-      "img_2": "/images/heo/SEALYikang.jpg",
-      "color_2": "#ffffff"
-    },
-    {
-      "title_1": "sjzyQwQ",
-      "img_1": "/images/heo/sjzyQwQ.png",
-      "color_1": "#ffffff",
-      "title_2": "SkyEx",
-      "img_2": "/images/heo/SkyEx.jpg",
-      "color_2": "#ffffff"
-    },
-    {
-      "title_1": "SLeanF",
-      "img_1": "/images/heo/SLeanF.jpg",
-      "color_1": "#ffffff",
-      "title_2": "SugarMGP",
-      "img_2": "/images/heo/SugarMGP.jpg",
-      "color_2": "#ffffff"
-    },
-    {
-      "title_1": "vagrant",
-      "img_1": "/images/heo/vagrant.jpg",
-      "color_1": "#ffffff",
-      "title_2": "Vesper",
-      "img_2": "/images/heo/Vesper.jpg",
-      "color_2": "#ffffff"
-    }
-  ],
+    "HEO_GROUP_ICONS": [
+      {
+        "title_1": "-",
+        "img_1": "/images/heo/avatars/-.jpg",
+        "color_1": "#ffffff",
+        "title_2": "¿¿¿¿¿",
+        "img_2": "/images/heo/avatars/¿¿¿¿¿.jpg",
+        "color_2": "#ffffff"
+      },
+      {
+        "title_1": "⑨0%碘化钙",
+        "img_1": "/images/heo/avatars/⑨0%碘化钙.jpg",
+        "color_1": "#ffffff",
+        "title_2": "海底捞凤梨汁",
+        "img_2": "/images/heo/avatars/海底捞凤梨汁.jpg",
+        "color_2": "#ffffff"
+      },
+      {
+        "title_1": "霁月",
+        "img_1": "/images/heo/avatars/霁月.jpg",
+        "color_1": "#ffffff",
+        "title_2": "江暮迟",
+        "img_2": "/images/heo/avatars/江暮迟.jpg",
+        "color_2": "#ffffff"
+      },
+      {
+        "title_1": "禁地",
+        "img_1": "/images/heo/avatars/禁地.jpg",
+        "color_1": "#ffffff",
+        "title_2": "林",
+        "img_2": "/images/heo/avatars/林.jpg",
+        "color_2": "#ffffff"
+      },
+      {
+        "title_1": "牧野",
+        "img_1": "/images/heo/avatars/牧野.jpg",
+        "color_1": "#ffffff",
+        "title_2": "晴霜",
+        "img_2": "/images/heo/avatars/晴霜.jpg",
+        "color_2": "#ffffff"
+      },
+      {
+        "title_1": "三硝基甲苯",
+        "img_1": "/images/heo/avatars/三硝基甲苯.jpg",
+        "color_1": "#ffffff",
+        "title_2": "扬州炒饭",
+        "img_2": "/images/heo/avatars/扬州炒饭.jpg",
+        "color_2": "#ffffff"
+      },
+      {
+        "title_1": "月亮有点困",
+        "img_1": "/images/heo/avatars/月亮有点困.jpg",
+        "color_1": "#ffffff",
+        "title_2": "雲",
+        "img_2": "/images/heo/avatars/雲.jpg",
+        "color_2": "#ffffff"
+      },
+      {
+        "title_1": "稚璇Yumi",
+        "img_1": "/images/heo/avatars/稚璇Yumi.jpg",
+        "color_1": "#ffffff",
+        "title_2": "chihuoQwQ",
+        "img_2": "/images/heo/avatars/chihuoQwQ.jpg",
+        "color_2": "#ffffff"
+      },
+      {
+        "title_1": "ClassiSBand",
+        "img_1": "/images/heo/avatars/ClassiSBand.jpg",
+        "color_1": "#ffffff",
+        "title_2": "Cokee",
+        "img_2": "/images/heo/avatars/Cokee.jpg",
+        "color_2": "#ffffff"
+      },
+      {
+        "title_1": "cyy",
+        "img_1": "/images/heo/avatars/cyy.png",
+        "color_1": "#ffffff",
+        "title_2": "DryIce-cc",
+        "img_2": "/images/heo/avatars/DryIce-cc.jpg",
+        "color_2": "#ffffff"
+      },
+      {
+        "title_1": "Epsilon",
+        "img_1": "/images/heo/avatars/Epsilon.jpg",
+        "color_1": "#ffffff",
+        "title_2": "fsw",
+        "img_2": "/images/heo/avatars/fsw.jpg",
+        "color_2": "#ffffff"
+      },
+      {
+        "title_1": "gbcy",
+        "img_1": "/images/heo/avatars/gbcy.jpg",
+        "color_1": "#ffffff",
+        "title_2": "Heiyc",
+        "img_2": "/images/heo/avatars/Heiyc.jpg",
+        "color_2": "#ffffff"
+      },
+      {
+        "title_1": "Hiper",
+        "img_1": "/images/heo/avatars/Hiper.jpg",
+        "color_1": "#ffffff",
+        "title_2": "kriastans",
+        "img_2": "/images/heo/avatars/kriastans.jpg",
+        "color_2": "#ffffff"
+      },
+      {
+        "title_1": "LiuYan-xwx",
+        "img_1": "/images/heo/avatars/LiuYan-xwx.jpg",
+        "color_1": "#ffffff",
+        "title_2": "LyRin-owo",
+        "img_2": "/images/heo/avatars/LyRin-owo.jpg",
+        "color_2": "#ffffff"
+      },
+      {
+        "title_1": "MikaRELIA",
+        "img_1": "/images/heo/avatars/MikaRELIA.jpg",
+        "color_1": "#ffffff",
+        "title_2": "MiniSentry",
+        "img_2": "/images/heo/avatars/MiniSentry.jpg",
+        "color_2": "#ffffff"
+      },
+      {
+        "title_1": "MoonBigD",
+        "img_1": "/images/heo/avatars/MoonBigD.jpg",
+        "color_1": "#ffffff",
+        "title_2": "Nanami",
+        "img_2": "/images/heo/avatars/Nanami.jpg",
+        "color_2": "#ffffff"
+      },
+      {
+        "title_1": "Nireno",
+        "img_1": "/images/heo/avatars/Nireno.jpg",
+        "color_1": "#ffffff",
+        "title_2": "Patricia",
+        "img_2": "/images/heo/avatars/Patricia.jpg",
+        "color_2": "#ffffff"
+      },
+      {
+        "title_1": "sanwu",
+        "img_1": "/images/heo/avatars/sanwu.jpg",
+        "color_1": "#ffffff",
+        "title_2": "SEALYikang",
+        "img_2": "/images/heo/avatars/SEALYikang.jpg",
+        "color_2": "#ffffff"
+      },
+      {
+        "title_1": "sjzyQwQ",
+        "img_1": "/images/heo/avatars/sjzyQwQ.png",
+        "color_1": "#ffffff",
+        "title_2": "SkyEx",
+        "img_2": "/images/heo/avatars/SkyEx.jpg",
+        "color_2": "#ffffff"
+      },
+      {
+        "title_1": "SLeanF",
+        "img_1": "/images/heo/avatars/SLeanF.jpg",
+        "color_1": "#ffffff",
+        "title_2": "SugarMGP",
+        "img_2": "/images/heo/avatars/SugarMGP.jpg",
+        "color_2": "#ffffff"
+      },
+      {
+        "title_1": "vagrant",
+        "img_1": "/images/heo/avatars/vagrant.jpg",
+        "color_1": "#ffffff",
+        "title_2": "Vesper",
+        "img_2": "/images/heo/avatars/Vesper.jpg",
+        "color_2": "#ffffff"
+      }
+    ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '加入群聊',
